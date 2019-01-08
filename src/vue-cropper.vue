@@ -14,6 +14,7 @@
 					:src="imgs"
 					alt="cropper-img"
 					ref="cropperImg"
+					crossorigin="anonymous"
 					/>
 			</div>
 		</div>
@@ -42,6 +43,7 @@
 						}"
 						:src="imgs"
 						alt="cropper-img"
+						crossorigin="anonymous"
 						/>
 				</span>
 				<span
